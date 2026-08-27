@@ -15,6 +15,6 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSEP certifi
 
 This playbook is not extensive and is for reference purposes only. It does not cover all the course material, and commands, tools, and syntax may have changed since it was created. It should not be used as a substitute for the official PEN-300 course.
 
-Use this playbook as a starting point to help you build your workflow and note-taking structure. Keep in mind that these methods are based on my personal experience and include most of what I frequently encountered while working through challenges and machines. What worked for me may not work for you. 
+Use this playbook as a starting point to help you build your workflow and note-taking structure. Keep in mind that these methods are based on my personal experience and include most of what I frequently encountered while working through the challenge labs and course machines. What worked for me may not work for you. 
 
-I strongly recommend building your own playbook as you progress through the course, challenge labs, and practice machines so you have something tailored to your own personal style.
+I strongly recommend building your own playbook as you progress through the course and challenge labs so you have something tailored to your own personal style.
