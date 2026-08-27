@@ -48,3 +48,8 @@ schtasks /query /tn "<task_name>" /fo LIST /v
 ```
 nltest /trusted_domains
 ```
+> View all files in user directories to find interesting files (run in C:\Users):
+
+```
+tree /F /A
+```
