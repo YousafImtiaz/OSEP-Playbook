@@ -50,7 +50,7 @@ Here you want to look at what users you have compromised and what groups they ar
 convertfrom-sid <sid>
 ```
 
-Make sure to right click on a target machine and use "shortest path from here" if you cant find a path to compromise in BloodHound. whenever you compromise a user or machine mark it as owned in BloodHound as well so you can query "shortest path from owned".
+Make sure to right click on a target machine and use "shortest path from here" if you cant find a path to compromise in BloodHound. Whenever you compromise a user or machine mark it as owned in BloodHound as well so you can query "shortest path from owned".
 
 
 
